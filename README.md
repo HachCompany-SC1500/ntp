@@ -1,2 +1,0 @@
-# ntp
-network time protocol
